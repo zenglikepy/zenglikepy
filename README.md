@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.dgithub.xyz/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'></img>
 ## Hi there 👋
-- 👋 Hi, I’m @Awu-Miao
+- 👋 Hi, I’m @zenglikepy
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C Programming Language
 - 📫 My E-mail:mc_burn123@zohomail.com
